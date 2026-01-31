@@ -1,0 +1,25 @@
+.send-button{
+    background-color: rgb(165, 76, 21);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.chatbot-input{
+    padding: 12px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 16px;
+    flex-grow: 1;
+    /* margin-top: 10px; */
+}
+.chatbot-container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 600px;
+}
